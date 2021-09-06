@@ -1,2 +1,2 @@
 # MySQL_implement_By_Java
-A project in ZJU database
+My project src code in ZJU 2021 Spring teached by Professor Zhongdong Huang
